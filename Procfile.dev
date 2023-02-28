@@ -1,2 +1,0 @@
-web: bin/rails server -p 3333
-js: yarn start --watch
